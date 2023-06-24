@@ -1,3 +1,4 @@
+一个SM3哈希加密算法
 # SM3_core
 
 国密 SM3 杂凑算法的硬件 IP，RTL 采用 Verilog 开发，测试平台使用 SystemVerilog 语言。
